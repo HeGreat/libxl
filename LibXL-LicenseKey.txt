@@ -1,4 +1,5 @@
-﻿适用于最新3.8.0版，使用方式如下：
+﻿#适用于最新3.8.0版，使用方式如下：
+x64加上这个才能全部读取文件
 	Book* book = xlCreateXMLBook();
 	const wchar_t * x = L"Halil Kural";
 	const wchar_t * y = L"windows-2723210a07c4e90162b26966a8jcdboe";
